@@ -1,6 +1,6 @@
-package test.login;
+package com.saucedemo.test.test.login;
 
-import base.BaseTest;
+import com.saucedemo.test.base.BaseTest;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
